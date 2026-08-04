@@ -8,17 +8,17 @@ Then add your answer to the question beside your corresponding number.
 
 ## Question: What is your favourite pizza topping?
 
-1. Prosciutto di Parma
+1.Chicken
 2. Vegetables
 3. 
 4. 
 5. 
-6. Vegetables
+6. Pepperoni
 7. Tuna
-8. Sushi
+8. Pineapple
 9. 
 10. cheese
-11. olives, anchovies & capers
+11. olives
 12. cheese
 13. Anchovies
 14. margherita
