@@ -8,9 +8,9 @@ Then add your answer to the question beside your corresponding number.
 
 ## Question: What is your favourite pizza topping?
 
-1. Prosciutto di Parma
-2. Vegetables
-3. 
+1. Chicken
+2. Pepperoni
+3. Pineapple
 4. 
 5. 
 6. Vegetables
